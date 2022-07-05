@@ -1,3 +1,7 @@
 fideos
 azucar
 gelatina
+aceite
+cafe
+pan
+
